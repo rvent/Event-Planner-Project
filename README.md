@@ -3,3 +3,4 @@ The purpose of this project is to recommend restaurants to someone based on a si
 
 # Data source
 - Yelp Open Dataset: https://www.yelp.com/dataset
+- Yelp.com
